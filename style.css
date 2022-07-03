@@ -1,3 +1,11 @@
+
 h1{
-    color: cadetblue;
+    font-size: 50px;
+    color: aquamarine;
+}
+body{
+    font-family: 'Splash', cursive;
+}
+.my-sassy{
+    color: coral;
 }
